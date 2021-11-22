@@ -1,0 +1,17 @@
+/*de body word hier aangepast*/
+body 
+{
+/*achtergrond word een gif van een hele blije gibby*/
+	background-image: url("../../Materiaal/plaatjes/alienveld.jpg");
+/*alle texten worden naar het midden verplaatst*/
+	text-align: center;
+	color: white;
+}
+/*aanpassingen aan alle koppen*/
+h1,h2,h3,h4,h5,h6
+{
+/*maakt de ruimte tussen leters 3 pixels groter*/
+	letter-spacing: 3px;
+/*text grote van de kop*/
+	font size: 80px;
+}
