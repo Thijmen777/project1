@@ -66,10 +66,9 @@ h2 { top:0px;
 
 }
 
-<<<<<<< HEAD
-		.grid-container{ 
+.grid-container{ 
 
-           display: grid;
+      display: grid;
 		   
 }
 
@@ -110,7 +109,7 @@ h2 { top:0px;
 		
 		}		
 	
-=======
+
 #popUpBox{
   width: 500px;
   overflow: hidden;
@@ -130,4 +129,4 @@ h2 { top:0px;
 .pop-up-image{
 	width: 200px;
 }
->>>>>>> a16f6b3e9704a05918f4ae5d7b4f260af48fca78
+
