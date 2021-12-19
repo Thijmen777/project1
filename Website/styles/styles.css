@@ -65,3 +65,47 @@ h2 { top:0px;
      background-color: SlateGray;
 
 }
+
+		.grid-container{ 
+
+           display: grid;
+		   
+}
+
+.left { grid-column-start: 1;
+          grid-column-end: 1;
+		  grid-row-start: 2;
+		  grid-row-end: 4;
+}
+
+.midden { grid-column-start: 2;
+          grid-column-end: 2;
+          grid-row-start: 2;
+          grid-row-end: 4;
+}
+
+.right { grid-column-start: 3;
+          grid-column-end: 4;
+          grid-row-start: 2;
+          grid-row-end: 4;		  
+}
+
+.yes  { 
+		outline-style: inset;
+        color: white;	
+	}
+
+.no {
+		text-decoration: underline;
+	
+	}
+
+
+.sure {
+		
+		border-style: solid;
+        color: green;		
+		text-decoration: none;
+		
+		}		
+	
