@@ -65,3 +65,7 @@ h2 { top:0px;
      background-color: SlateGray;
 
 }
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
